@@ -26,8 +26,8 @@ INSTALLATION
    cd your-repo-name
 3. Open `index.html` in your web browser to view the application.
 
- CONTRIBUTION
- -If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+CONTRIBUTION
+-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 CONTACT
 -For any questions or feedback, you can reach me at davidmakwetta@gmail.com
